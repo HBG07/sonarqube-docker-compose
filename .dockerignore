@@ -1,0 +1,6 @@
+# statics files
+./statics
+
+# information files
+README.md
+sonar-project.properties
